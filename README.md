@@ -1,4 +1,4 @@
-## Hi there 👋
+## Certificates
 
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932.jpeg?v=1789235449)](https://www.boot.dev/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932)
 <!--
