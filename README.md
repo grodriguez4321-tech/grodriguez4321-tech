@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+[![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932.jpeg?v=1789235449)](https://www.boot.dev/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932)
 <!--
 **grodriguez4321-tech/grodriguez4321-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
