@@ -3,6 +3,8 @@
 [![Boot.dev Introduction to Python Course certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932.jpeg?v=1789235449)](https://www.boot.dev/certificates/772c8143-8c29-4dd2-b606-2c7c5e3e1932)
 
 [![Boot.dev Learn Object Oriented Programming in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/305ad595-e141-4190-96a9-91f83e0ad54c.jpeg?v=1790102943)](https://www.boot.dev/certificates/305ad595-e141-4190-96a9-91f83e0ad54c)
+
+[![Boot.dev Build a BookBot in Python certificate](https://qvault-webapp-dynamic-assets.storage.googleapis.com/certificates/40cb3f2d-ac0e-4012-ab9f-10073a2dee7c.jpeg?v=1790181853)](https://www.boot.dev/certificates/40cb3f2d-ac0e-4012-ab9f-10073a2dee7c)
 <!--
 **grodriguez4321-tech/grodriguez4321-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
